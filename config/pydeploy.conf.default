@@ -1,0 +1,2 @@
+artifactory(type='ftp', host='xxxx.com', user='xxx', passwd='xxx')
+third_source (prefix='~/third', build_dir='~/third/source')
